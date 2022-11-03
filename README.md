@@ -42,8 +42,8 @@ MVP for Tasty Bytes - an AR food menu startup | Made with 8th Wall, a-frame, htm
 2D UI vs 3D environment is always a challenging issue working with AR. In the end, I learned and understood better how to use touch events and how, from a user's experience point of view, to better integrate the UI experience with 3D objects.
    </p>
 
-  <img src="https://user-images.githubusercontent.com/40408965/199855962-629abec4-3962-4061-95ed-8106000c90ee.gif" alt="animated" />
-  
+<!--   <img src="https://user-images.githubusercontent.com/40408965/199855962-629abec4-3962-4061-95ed-8106000c90ee.gif" alt="animated" />
+   -->
   
   
  
