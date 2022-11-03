@@ -22,10 +22,8 @@
   <p align="center">
 MVP for Tasty Bytes - an AR food menu startup | Made with 8th Wall, a-frame, html, css and javascript.
   </p>
+   <img src="https://user-images.githubusercontent.com/40408965/199855940-36c6b3fb-c9af-4fe5-ae10-af4b115887a5.gif" alt="animated" />
 
- 
- <a href="https://www.linkedin.com/posts/victor-cappa-50839788_zerolimits-themetaversefoundry-interactivepackaging-activity-6988599952075550720-9e3O?utm_source=share&utm_medium=member_desktop" target="_blank">Demo video<a/>
- 
 </div>
 
 
@@ -44,8 +42,7 @@ MVP for Tasty Bytes - an AR food menu startup | Made with 8th Wall, a-frame, htm
 2D UI vs 3D environment is always a challenging issue working with AR. In the end, I learned and understood better how to use touch events and how, from a user's experience point of view, to better integrate the UI experience with 3D objects.
    </p>
 
-
-  <img src="" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/40408965/199855962-629abec4-3962-4061-95ed-8106000c90ee.gif" alt="animated" />
   
   
   
@@ -61,7 +58,7 @@ MVP for Tasty Bytes - an AR food menu startup | Made with 8th Wall, a-frame, htm
 <!-- LICENSE -->
 ## License
 
-All intellectual property is owned by Marvel Studios and Coca Cola Company
+All intellectual property is owned by Tasty Bytes
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -71,7 +68,7 @@ All intellectual property is owned by Marvel Studios and Coca Cola Company
 Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
 
 
-Share the project - [TastyBytes]([https://github.com/victorcappa/sprite-wakanda-campaign])
+Share the project - [TastyBytes]([https://github.com/victorcappa/tasty-bytes-mvp])
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
